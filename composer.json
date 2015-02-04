@@ -1,5 +1,5 @@
 {
-    "name": "osirisov/redbean",
+    "name": "gabordemooij/redbean",
     "type": "library",
     "description": "Easy ORM for PHP",
     "keywords": ["ORM","Object Relational Mapping"],
